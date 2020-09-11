@@ -1,0 +1,12 @@
+{
+  "applications": [
+    {
+      "id": "test",
+      "name": "Test",
+      "vendor": "sdfdf",
+      "categoryId": "billing",
+      "applicationSize": "Small",
+      "status": "Standard"
+    }
+  ]
+}
